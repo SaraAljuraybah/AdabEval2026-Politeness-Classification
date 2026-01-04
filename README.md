@@ -13,3 +13,32 @@ The dataset consists of annotated Arabic social media posts, each labeled with a
 The dataset is provided by the AdabEval 2026 organizing team and is used strictly for research purposes.
 
 ## Project Structure
+AdabEval2026-Politeness-Classification/
+│
+├── data/
+│   ├── raw/
+│   ├── processed/
+│
+├── notebooks/
+│   ├── EDA.ipynb
+│
+├── preprocessing/
+│   ├── clean_text.py
+│
+├── models/
+│   ├── train.py
+│   ├── evaluate.py
+│
+├── experiments/
+│   ├── baseline_results.md
+│
+├── results/
+│   ├── metrics.json
+│   ├── confusion_matrix.png
+│
+├── paper/
+│   ├── system_description_draft.md
+│
+├── requirements.txt
+└── README.md
+
