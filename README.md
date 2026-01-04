@@ -42,3 +42,22 @@ AdabEval2026-Politeness-Classification/
 ├── requirements.txt
 └── README.md
 
+
+## Methodology
+- Text preprocessing and normalization
+- Transformer-based Arabic language models (e.g., AraBERT, MARBERT)
+- Multi-class classification
+- Evaluation using Accuracy and Macro F1-score
+
+## Evaluation Metrics
+- Accuracy
+- Macro-averaged Precision
+- Recall
+- F1-score
+
+## Team
+- Sara Aljuraybah – Team Lead / NLP Engineer
+
+## License
+This project is for academic and research use only.
+
