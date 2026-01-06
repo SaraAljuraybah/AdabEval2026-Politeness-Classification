@@ -56,8 +56,7 @@ AdabEval2026-Politeness-Classification/
 - F1-score
 
 ## Team
-- Sara Aljuraybah – Team Lead / NLP Engineer
-
+Sara Aljuraybah
 ## License
 This project is for academic and research use only.
 
